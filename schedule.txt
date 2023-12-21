@@ -1,0 +1,7 @@
+Monday: Programming (c_c-data-structures-and-algorithms-in-c)
+Tuesday: Math (Sets for Mathematics)
+Wednesday: Physics (David J Griffiths - Introduction to electrodynamics-Prentice Hall (1999))
+Thursday: Japanese ((Routledge Comprehensive Grammars) Stefan Kaiser, Yasuko Ichikawa, Noriko Kobayashi, Hilofumi Yamamoto - Japanese_ A Comprehensive Grammar-Routledge (2013))
+Friday: French (Modern French Grammar by Margaret Lang, Isabelle Perez (z-lib.org))
+Saturday: Economic (International Political Economy ( PDFDrive ))
+Sunday: Programming (c_c-data-structures-and-algorithms-in-c)
