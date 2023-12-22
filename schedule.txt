@@ -4,4 +4,4 @@ Wednesday: Physics (David J Griffiths - Introduction to electrodynamics-Prentice
 Thursday: Japanese ((Routledge Comprehensive Grammars) Stefan Kaiser, Yasuko Ichikawa, Noriko Kobayashi, Hilofumi Yamamoto - Japanese_ A Comprehensive Grammar-Routledge (2013))
 Friday: French (Modern French Grammar by Margaret Lang, Isabelle Perez (z-lib.org))
 Saturday: Economic (International Political Economy ( PDFDrive ))
-Sunday: Programming (c_c-data-structures-and-algorithms-in-c)
+Sunday: Reading Book (Business Adventures)
